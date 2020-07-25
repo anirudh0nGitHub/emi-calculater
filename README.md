@@ -20,9 +20,6 @@ Based on Spring boot, Java 8.
      alt="Api Docs"
      style="float: left; margin-left: -10px;height: 30px" />
 
-## How to run
-docker-compose up -d
-
 ## Api Endpunkten
 - http://localhost:8080/api/plan/monthly
 - http://localhost:8080/api/plan/yearly
@@ -43,6 +40,8 @@ https://docs.docker.com/get-docker/
 ## Deployment
 
 From root directory of the project run
+
+## How to run
 docker-compose up -d (if needed use sudo!)
 
 Wait a few minutes till both backend and frontend containers are up and running. 
