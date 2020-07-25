@@ -41,7 +41,7 @@ https://docs.docker.com/get-docker/
 
 From root directory of the project run
 
-docker-compose up -d (if needed use sudo!)
+#### docker-compose up -d (if needed use sudo!)
 
 Wait a few minutes till both backend and frontend containers are up and running. 
 
