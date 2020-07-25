@@ -1,4 +1,4 @@
-# Emi-calculator buil with ReactJS and Spring Boot
+# Emi-calculator buil with ReactJS and Spring Boot(German)
 
 A fullstack application that calculates the amount of remaining debt after ,X, Amount of years based on:
 
@@ -8,10 +8,11 @@ A fullstack application that calculates the amount of remaining debt after ,X, A
 4. Optional -- Initial duration till which the interest rate doesn't change.(Zinsbindungsdauer).
 
 ## Frontend 
-Basiert auf ReactJS.
+Based on ReactJS.The Frontend is reponsive and reactive, that is it can be run and shown without problem on all mobile and non-destop devices
+and the change in input parameters reflects dynamically the output table in the UI.
 
 ## Backend
-Basiert of Spring boot.
+Based on Spring boot, Java 8.
 
 ## How to run
 docker-compose up -d
