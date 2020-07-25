@@ -11,7 +11,6 @@ Basiert of Spring boot.
 #How to run
 docker-compose up -d
 
-sparka
 #Api Endpunkten
 - http://localhost:8080/api/plan/monthly
 - http://localhost:8080/api/plan/yearly
