@@ -32,16 +32,14 @@ jeweils für monatliche und jährliche Planberechnungen.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Prerequisites
 
 As both frontend and backend parts are going to be running in docker container. You need to have docker installed on your system. 
 https://docs.docker.com/get-docker/
 
-## Deployment
+## Deployment(How to run)
 
 From root directory of the project run
-
-## How to run
 docker-compose up -d (if needed use sudo!)
 
 Wait a few minutes till both backend and frontend containers are up and running. 
