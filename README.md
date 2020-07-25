@@ -14,7 +14,11 @@ and the change in input parameters reflects dynamically the output table in the 
 
 ## Backend
 Based on Spring boot, Java 8.
+
 ![](api-docs.png) 
+<img src="api_docs.png"
+     alt="Api Docs"
+     style="float: left; margin-left: -10px;height: 30px" />
 
 ## How to run
 docker-compose up -d
