@@ -10,9 +10,11 @@ A fullstack application that calculates the amount of remaining debt after ,X, A
 ## Frontend 
 Based on ReactJS.The Frontend is reponsive and reactive, that is it can be run and shown without problem on all mobile and non-destop devices
 and the change in input parameters reflects dynamically the output table in the UI.
+![](tilgungform.png) 
 
 ## Backend
 Based on Spring boot, Java 8.
+![](api-docs.png) 
 
 ## How to run
 docker-compose up -d
