@@ -13,7 +13,7 @@ and the change in input parameters reflects dynamically the output table in the 
 ![](tilgungform.png) 
 
 ## Backend
-Based on Spring boot, Java 8.
+Based on Spring boot, Java 8, Swagger documentation and AOP logging.
 
 ![](api-docs.png) 
 <img src="api_docs.png"
