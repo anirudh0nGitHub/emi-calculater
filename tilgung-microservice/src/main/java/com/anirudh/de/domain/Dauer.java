@@ -4,38 +4,38 @@ import java.time.LocalDate;
 
 public class Dauer {
 
-  private LocalDate erstesDatum;
-  private LocalDate letztesDatum;
+    private LocalDate erstesDatum;
+    private LocalDate letztesDatum;
 
-  public Dauer(LocalDate erstesDatum, LocalDate letztesDatum) {
-    this.erstesDatum = erstesDatum;
-    this.letztesDatum = letztesDatum;
-  }
+    public Dauer(LocalDate erstesDatum, LocalDate letztesDatum) {
+        this.erstesDatum = erstesDatum;
+        this.letztesDatum = letztesDatum;
+    }
 
-  public Dauer() {
-  }
+    public Dauer() {
+    }
 
-  public LocalDate getErstesDatum() {
-    return erstesDatum;
-  }
+    public LocalDate getErstesDatum() {
+        return erstesDatum;
+    }
 
-  public void setErstesDatum(LocalDate erstesDatum) {
-    this.erstesDatum = erstesDatum;
-  }
+    public void setErstesDatum(LocalDate erstesDatum) {
+        this.erstesDatum = erstesDatum;
+    }
 
-  public LocalDate getLetztesDatum() {
-    return letztesDatum;
-  }
+    public LocalDate getLetztesDatum() {
+        return letztesDatum;
+    }
 
-  public void setLetztesDatum(LocalDate letztesDatum) {
-    this.letztesDatum = letztesDatum;
-  }
+    public void setLetztesDatum(LocalDate letztesDatum) {
+        this.letztesDatum = letztesDatum;
+    }
 
-  @Override
-  public String toString() {
-    return "Dauer{" +
-      "erstesDatum=" + erstesDatum +
-      ", letztesDatum=" + letztesDatum +
-      '}';
-  }
+    @Override
+    public String toString() {
+        return "Dauer{" +
+                "erstesDatum=" + erstesDatum +
+                ", letztesDatum=" + letztesDatum +
+                '}';
+    }
 }

@@ -5,7 +5,7 @@ package com.anirudh.de.domain.exception;
  */
 public class TilgungPlanCreationException extends TilgungException {
 
-  public TilgungPlanCreationException(String message) {
-    super(message);
-  }
+    public TilgungPlanCreationException(String message) {
+        super(message);
+    }
 }

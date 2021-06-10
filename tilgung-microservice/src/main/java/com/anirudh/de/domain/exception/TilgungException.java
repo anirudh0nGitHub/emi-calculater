@@ -5,7 +5,7 @@ package com.anirudh.de.domain.exception;
  */
 class TilgungException extends Exception {
 
-  TilgungException(String message) {
-    super(message);
-  }
+    TilgungException(String message) {
+        super(message);
+    }
 }
